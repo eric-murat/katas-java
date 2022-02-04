@@ -1,4 +1,4 @@
 ## Liste des Katas Java - https://www.codewars.com/dashboard
 
 * ARRAYS
-  * [kata-java-sum-lowest-int.md](kata-js-sum-lowest-int.md) `Arrays.sort`
+  * [kata-java-find-smallest-integer.md](kata-java-find-smallest-integer.md) `Arrays.sort`
